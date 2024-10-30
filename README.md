@@ -18,6 +18,7 @@ Print!
 
 
 ------ UPDATE 2024-10-22 ------
+
 Changed lead screws to different brand (PTFE coated)
 
 Installed new Z-Stepper motors with 0.9°
