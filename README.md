@@ -22,4 +22,6 @@ Changed lead screws to different brand (PTFE coated)<br>
 Installed new Z-Stepper motors with 0.9°<br>
 <br>
 ---- UPDATE 2024-10-30 ----<br>
-Changed extruder motor to a much stroonger one to get rid of the extruder skiping.
+Changed extruder motor to a much stroonger one to get rid of the extruder skiping.<br>
+<br>
+Added my own designed and printed parts<br>
