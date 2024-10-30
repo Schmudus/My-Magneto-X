@@ -17,12 +17,9 @@ Load Mesh and Skew
 Print!
 
 
------- UPDATE 2024-10-22 ------
-
-Changed lead screws to different brand (PTFE coated)
-
-Installed new Z-Stepper motors with 0.9°
-
-
----- UPDATE 2024-10-30 ----
+------ UPDATE 2024-10-22 ------<br>
+Changed lead screws to different brand (PTFE coated)<br>
+Installed new Z-Stepper motors with 0.9°<br>
+<br>
+---- UPDATE 2024-10-30 ----<br>
 Changed extruder motor to a much stroonger one to get rid of the extruder skiping.
