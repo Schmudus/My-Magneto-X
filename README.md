@@ -15,3 +15,11 @@ Do a purge line
 Clean nozzle
 Load Mesh and Skew
 Print!
+
+
+------ UPDATE ------
+Changes lead screws to different btrand, PTFED coated as well as new Z-Stepper motors with 0.9°
+
+
+---- UPDATE ----
+Changed extruder motor to a much stroonger one to get rid of the extruder skiping.
