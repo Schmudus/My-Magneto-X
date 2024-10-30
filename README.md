@@ -38,6 +38,6 @@ Changed lead screws to different brand (PTFE coated)<br>
 Installed new Z-Stepper motors with 0.9°<br>
 <br>
 ---- UPDATE 2024-10-30 ----<br>
-Changed extruder motor to a much stroonger one to get rid of the extruder skiping.<br>
+Changed extruder motor to a much stronger one (1.83A rated current therefore TMC set to 1.2A and max_power: 1.0 in extruder section in printer.cfg) to get rid of the extruder skiping. <br>
 <br>
 Added my own designed and printed parts<br>
