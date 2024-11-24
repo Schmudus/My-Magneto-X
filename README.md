@@ -19,12 +19,12 @@ Print!<br>
 <br>
 Print start macro (ASA/ABS/ABS-GF)is doing as follows:<br>
 Homing<br>
-Preheat to final bed tzemperatur<br>
-After reaching bed temperature wait 10 minutes (preheat chamber)<br>
+Preheat to final bed temperatur<br>
+Wait for chamber temperature reach 42°C<br>
 Preheat nozzle to 150°C<br>
-Clean nozzle (brush) while nozzle temp is set to 140°C<br>
+Clean nozzle while nozzle temp is set to 140°C<br>
 Wait until nozzle is cooled down to 140°C (Shrink the Filament a little to avoid oozing)<br>
-Fast clean nozzle<br>
+Clean nozzle<br>
 Home only Z with clean nozzle<br>
 Do a Quad gantry level<br>
 Do a purge line<br>
@@ -32,6 +32,10 @@ Clean nozzle<br>
 Load Mesh and Skew<br>
 Print!<br>
 <br>
+<br>
+------ UPDATE 2024-10-22 ------<br>
+Installed TMC Auto Tune for Z and Extruder<br>
+Installed TMC2204 for Z<br>
 <br>
 ------ UPDATE 2024-10-22 ------<br>
 Changed lead screws to different brand (PTFE coated)<br>
