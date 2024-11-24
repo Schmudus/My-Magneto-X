@@ -35,13 +35,13 @@ Print!<br>
 <br>
 ------ UPDATE 2024-10-22 ------<br>
 Installed TMC Auto Tune for Z and Extruder<br>
-Installed TMC2204 for Z<br>
+Installed TMC2240 for Z<br>
 <br>
 ------ UPDATE 2024-10-22 ------<br>
 Changed lead screws to different brand (PTFE coated)<br>
-Installed new Z-Stepper motors with 0.9°<br>
+Installed new Z-Stepper motors with 0.9° and set TMC to 1.2A<br>
 <br>
 ---- UPDATE 2024-10-30 ----<br>
-Changed extruder motor to a much stronger one (1.83A rated current therefore TMC set to 1.2A and max_power: 1.0 in extruder section in printer.cfg) to get rid of the extruder skiping. <br>
+Changed extruder motor to a much stronger one (1.83A rated current, TMC set to 1.1 / 0.6A and max_power: 1.0 in extruder section in printer.cfg) to get rid of the extruder skiping. <br>
 <br>
 Added my own designed and printed parts<br>
