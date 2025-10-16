@@ -13,7 +13,7 @@
             "prep": true,
             "tool_loaded": true,
             "loaded_to_hub": true,
-            "material": "",
+            "material": "PLA",
             "density": 1.24,
             "diameter": 1.75,
             "empty_spool_weight": 190,
