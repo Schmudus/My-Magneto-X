@@ -78,7 +78,7 @@
             "runout_lane": null,
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "None",
+            "status": "Tool Loading",
             "dist_hub": 115.0
         },
         "lane4": {
