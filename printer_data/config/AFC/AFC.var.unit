@@ -11,8 +11,8 @@
             "map": "T0",
             "load": true,
             "prep": true,
-            "tool_loaded": false,
-            "loaded_to_hub": false,
+            "tool_loaded": true,
+            "loaded_to_hub": true,
             "material": "PLA matte",
             "density": 1.3,
             "diameter": 1.75,
@@ -22,9 +22,9 @@
             "weight": 551.6822086466698,
             "extruder_temp": 215,
             "runout_lane": null,
-            "filament_status": "Ready",
-            "filament_status_led": "#00cc00",
-            "status": "Tool Loading",
+            "filament_status": "In Tool",
+            "filament_status_led": "#0000ff",
+            "status": "Tooled",
             "dist_hub": 175.0
         },
         "lane2": {
@@ -110,13 +110,13 @@
         }
     },
     "system": {
-        "current_load": null,
+        "current_load": "lane1",
         "num_units": 1,
         "num_lanes": 4,
         "num_extruders": 1,
         "extruders": {
             "extruder": {
-                "lane_loaded": ""
+                "lane_loaded": "lane1"
             }
         },
         "bypass": {
