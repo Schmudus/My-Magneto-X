@@ -1,5 +1,3 @@
-[include mmu/base/*.cfg]
-[include mmu/optional/client_macros.cfg]
 [include mainsail.cfg]
 [mcu]
 serial: /dev/serial/by-id/<your-mcu-id>
