@@ -27,7 +27,7 @@
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
             "status": "Loaded",
-            "dist_hub": 769.74,
+            "dist_hub": 799.84,
             "td1_data": {}
         },
         "lane2": {
@@ -57,7 +57,7 @@
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
             "status": "Loaded",
-            "dist_hub": 769.74,
+            "dist_hub": 799.68,
             "td1_data": {}
         },
         "lane3": {
@@ -87,7 +87,7 @@
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
             "status": "Loaded",
-            "dist_hub": 769.74,
+            "dist_hub": 798.86,
             "td1_data": {}
         },
         "lane4": {
@@ -101,7 +101,7 @@
             "map": "T3",
             "load": true,
             "prep": true,
-            "selector": false,
+            "selector": true,
             "tool_loaded": false,
             "loaded_to_hub": true,
             "material": null,
@@ -117,7 +117,7 @@
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
             "status": "Loaded",
-            "dist_hub": 769.74,
+            "dist_hub": 777.72,
             "td1_data": {}
         }
     },
