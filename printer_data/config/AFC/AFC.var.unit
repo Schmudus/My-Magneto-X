@@ -11,7 +11,7 @@
             "map": "T0",
             "load": true,
             "prep": true,
-            "selector": true,
+            "selector": false,
             "tool_loaded": false,
             "loaded_to_hub": true,
             "material": "PLA",
@@ -21,7 +21,7 @@
             "remember_spool": false,
             "spool_id": 139,
             "color": "#ffffff",
-            "weight": 999.8818874684388,
+            "weight": 999.0915118441808,
             "extruder_temp": 217,
             "runout_lane": null,
             "filament_status": "Ready",
@@ -51,12 +51,12 @@
             "remember_spool": false,
             "spool_id": 148,
             "color": "#00000073",
-            "weight": 61.07599865276757,
+            "weight": 59.41875880644612,
             "extruder_temp": 215,
             "runout_lane": null,
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "Loaded",
+            "status": "None",
             "dist_hub": 746.01,
             "td1_data": {}
         },
@@ -71,7 +71,7 @@
             "map": "T2",
             "load": true,
             "prep": true,
-            "selector": false,
+            "selector": true,
             "tool_loaded": false,
             "loaded_to_hub": true,
             "material": "PLA",
@@ -81,12 +81,12 @@
             "remember_spool": false,
             "spool_id": 108,
             "color": "#bf8970",
-            "weight": 800.542145727852,
+            "weight": 799.7517738205963,
             "extruder_temp": 217,
             "runout_lane": null,
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "Loaded",
+            "status": "None",
             "dist_hub": 774.99,
             "td1_data": {}
         },
@@ -128,7 +128,7 @@
         "num_extruders": 1,
         "extruders": {
             "extruder": {
-                "lane_loaded": null
+                "lane_loaded": ""
             }
         },
         "bypass": {
