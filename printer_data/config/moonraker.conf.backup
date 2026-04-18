@@ -53,13 +53,6 @@ path: /home/pi/mainsail-config
 primary_branch: master
 type: git_repo
 
-# Crowsnest update_manager entry
-[update_manager crowsnest]
-type: git_repo
-path: ~/crowsnest
-origin: https://github.com/mainsail-crew/crowsnest.git
-managed_services: crowsnest
-install_script: tools/pkglist.sh
 
 [update_manager KlipperScreen]
 install_script: /home/pi/KlipperScreen/scripts/KlipperScreen-install.sh
@@ -128,3 +121,16 @@ primary_branch: main
 is_system_service: False
 info_tags:
     desc=AFC KlipperScreen Add On
+
+# Sonar update_manager entry
+[update_manager sonar]
+type: git_repo
+path: ~/sonar
+origin: https://github.com/mainsail-crew/sonar.git
+primary_branch: main
+managed_services: sonar
+system_dependencies: resources/system-dependencies.json
+
+[timelapse]
+output_path: ~/printer_data/timelapse/
+frame_path: /tmp/timelapse/printer
